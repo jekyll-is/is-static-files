@@ -1,3 +1,6 @@
+| [en](README.md) | RU |
+|----------|----------|
+
 # is-static-files
 
 Кастомные наследники класса StaticFile для Jekyll.

@@ -1,6 +1,14 @@
+| **EN** | [ru](README-ru.md) |
+|----------|----------|
+
 # is-static-files
 
-Custom StaticFile descendants for Jekyll.
+[![GitHub License](https://img.shields.io/github/license/jekyll-is/is-static-files)](LICENSE)
+[![Gem Version](https://badge.fury.io/rb/is-static-files.svg?icon=si%3Arubygems)](https://badge.fury.io/rb/is-static-files)
+[![Ruby](https://github.com/jekyll-is/is-static-files/actions/workflows/ruby.yml/badge.svg)](https://github.com/jekyll-is/is-static-files/actions/workflows/ruby.yml)
+![Coverage](coverage-badge.svg)
+
+Custom `StaticFile` descendants for Jekyll.
 
 ## Overview
 
