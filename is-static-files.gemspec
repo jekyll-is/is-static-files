@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "is-static-files"
-  s.version     = "0.8.0.2"
+  s.version     = "0.8.0.4"
   s.summary     = "Custom StaticFile descendants for Jekyll"
   s.description = "Custom StaticFile descendants for Jekyll."
   s.authors     = ["Ivan Shikhalev"]
@@ -15,5 +15,5 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency "rspec", "~> 3.13"
   s.add_development_dependency "rake", "~> 13.3"
-  s.add_development_dependency "simplecov", "~> 0.22.0"
+  s.add_development_dependency "simplecov", "~> 1.0.3"
 end
