@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "is-static-files"
-  s.version     = "0.8.0"
+  s.version     = "0.8.0.2"
   s.summary     = "Custom StaticFile descendants for Jekyll"
   s.description = "Custom StaticFile descendants for Jekyll."
   s.authors     = ["Ivan Shikhalev"]
